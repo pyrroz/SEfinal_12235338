@@ -81,6 +81,6 @@ https://ipinfo.io/165.246.116.201/geo
 
 So in this part i took the same calls but changed a value to have differents datas from the first part.
 
-Thanks again professor to understand me and give me another exercice as my VM wasnt working.
+Thanks again professor to understand me and give me another exercice as my VM wasnt working. You can also look through the commits i did to see the process of my work and my way of doing commits.
 
 Valentin EYRAUD, 12235338
